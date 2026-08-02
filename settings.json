@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ezkeva.aternos.me",
+    "ip": "ezkeva.aternos.me:30740",
     "port": 30740,
     "version": "",
     "try-creative": false
